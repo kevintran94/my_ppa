@@ -1,0 +1,11 @@
+Package: helloworld
+Version: 0.5
+Architecture: all
+Maintainer: Alex Nguyen
+Filename: ./helloworld.deb
+Size: 744
+MD5sum: a5bce5dfbb9677c495acdd675ba67860
+SHA1: 04db691804159c9e9a0ae988cc055959014ac1e3
+SHA256: 38bd6f7a8a6f6493216a1243cd7d2a9b04e92594096b5e7a0a2a7e151852c5be
+Description: hello world
+
